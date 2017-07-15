@@ -10,7 +10,8 @@
 /Assets/AssetStoreTools*
 
 # Key for MapBox access
-/Assets/StreamingAssets/MapBoxAccess*
+/Assets/StreamingAssets/MapBoxAccess.text
+/Assets/StreamingAssets/MapBoxAccess.text.meta
 
 # Visual Studio 2015 cache directory
 /.vs/
